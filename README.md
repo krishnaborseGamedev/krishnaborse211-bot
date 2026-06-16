@@ -16,7 +16,7 @@ Unity 6 · C# · Cinemachine · New Input System · Git · Python · Pandas · S
 **CubeBallShooter** — A 3D obstacle-course shooter where the player vaults,
 climbs, and navigates an industrial arena to find and eliminate hidden targets
 within a time limit.
-👉 [Repo](#) · [Gameplay Video](#) · [Playable Build](#)
+👉 [Repo](#) · [Gameplay Video](#) · [Playable Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip)
 
 ## 📫 Reach Me
 - Email: krishnaborse211@gmail.com
