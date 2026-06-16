@@ -1,7 +1,7 @@
 # Hi, I'm Krishna 👋
 
 Aspiring Unity Game Developer focused on gameplay programming, player systems,
-and animation-driven character controllers. Currently a BCA student exploring
+and animation-driven character controllers. BCA Graduate student exploring
 both game development and machine learning.
 
 ## 🎮 What I'm Built
