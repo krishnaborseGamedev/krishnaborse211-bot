@@ -18,7 +18,7 @@ climbs, and navigates an industrial arena to find and eliminate hidden targets
 within a time limit.
 👉 [Repo](https://github.com/krishnaborseGamedev/CubeBallShooter) · [Gameplay Video](https://youtu.be/1VIyJboSUVU) · [Playable Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip)
 
-## 📫 Portfolio (https://krishnaborse.framer.website/#about)
+## 📫 Portfolio (https://krishnaborse.framer.website)
 
 ## 📫 Reach Me
 - Email: krishnaborse211@gmail.com
